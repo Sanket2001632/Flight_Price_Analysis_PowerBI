@@ -38,10 +38,5 @@ Some snaps of the dashboard are attatched below-
 
 ![Screenshot 2024-03-08 034944](https://github.com/Sniperex/FLIGHT_FARE_PREDICTION/assets/52499633/e2ba9756-4de7-4c27-bfd3-14e7454f15f4)
 
-## Contributors
 
-- [Kashish Kumar Singh](https://github.com/Sniperex)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
